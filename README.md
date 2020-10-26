@@ -1,1 +1,3 @@
 # ...example...
+
+This exists as an example repository for testing purposes. It should not be removed or renamed.
